@@ -7,7 +7,7 @@ from tkinter import NW, Menu, Tk, Canvas, Entry, Text, Button, colorchooser, Str
 from PIL import Image, ImageTk, ImageDraw
 from shape.Circulo import Circulo
 from shape.Triangulo import Triangulo
-
+#hola
 def is_number(char):
     try:
         float(char)
